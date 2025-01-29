@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ratchanon Promsombut!  
 
 🎓 **Computer Science Student at KMUTT SIT**  
-💻 Passionate about software development, full-stack web & mobile apps, and problem-solving.  
+💻 Passionate about software development, full-stack web & mobile apps.  
 
 ## 🚀 Skills & Technologies  
 
