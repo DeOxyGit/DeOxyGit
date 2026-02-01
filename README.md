@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ratchanon Promsombut (Ratch)
+# 👋 Hi, I'm Ratchanon Promsombut
 **Computer Science Student at KMUTT (SIT)** 🎓
 
 I am a passionate **Full-Stack Developer** who loves building scalable web applications and seamless user experiences. I enjoy bridging the gap between robust backend logic and intuitive frontend design.
